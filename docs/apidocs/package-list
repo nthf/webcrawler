@@ -1,0 +1,9 @@
+com.gargoylesoftware.htmlunit
+com.gargoylesoftware.htmlunit.attachment
+com.gargoylesoftware.htmlunit.gae
+com.gargoylesoftware.htmlunit.html
+com.gargoylesoftware.htmlunit.httpclient
+com.gargoylesoftware.htmlunit.svg
+com.gargoylesoftware.htmlunit.util
+com.gargoylesoftware.htmlunit.xml
+netscape.javascript
